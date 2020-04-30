@@ -1,6 +1,6 @@
-# diceeapp
+# Dicee Application
 
-A simple dice rolling program
+A simple dice rolling mobile application
 
 ## Getting Started
 
